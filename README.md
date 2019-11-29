@@ -1,6 +1,6 @@
-# FluidCurrency ![Language Badge](https://img.shields.io/badge/Language-Go-blue.svg) ![License Badge](https://img.shields.io/badge/License-MIT-blue.svg) ![Status Badge](https://img.shields.io/badge/Status-Alpha-yellow.svg)
+# FuildCurrency ![Language Badge](https://img.shields.io/badge/Language-Go-blue.svg) ![License Badge](https://img.shields.io/badge/License-MIT-blue.svg) ![Status Badge](https://img.shields.io/badge/Status-Alpha-yellow.svg)
 
-FluidCurrency is a Go utility to fetch currencies, crypto-currencies and precious metal exchange rates. It does come with a number of providers (see below) for maximum flexibility. This library provides a minimalist API and a default provider. Some developers need a high frequency rate, others only a limited of currencies. Check the providers comparison table and pick the one that bests suits you.
+FuildCurrency is a Go utility to fetch currencies, crypto-currencies and precious metal exchange rates. It does come with a number of providers (see below) for maximum flexibility. This library provides a minimalist API and a default provider. Some developers need a high frequency rate, others only a limited of currencies. Check the providers comparison table and pick the one that bests suits you.
 
 ## Project Status
 
